@@ -7,7 +7,7 @@ Senior DevOps Specialist, Senior Developer
 I start develop in 1984, on a ZX Spectrum and never stop. I'm a Senior Software Engineer in CriticalSoftware for almost 20 years.
 
 * 🌍  I'm based in Portugal
-* 🧠  I'm learning Flutter, Firebase
+* 🧠  I'm learning React, ReactNative, Flutter, SwiftUI
 * 🤝  I'm open to collaborating on Software, Hardware, developing software, devops, cloud
 * ⚡  Also a Woodworker, and DIY maker.
 
