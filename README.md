@@ -1,18 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Augusto Campos
 ======================================================================================================================================
 
-Senior DevOps Specialist, Senior Developer
+Senior DevOps / DevSecOps Specialist, Senior Software Enginner
 ------------------------------------------
 
-I start develop in 1984, on a ZX Spectrum and never stop. I'm a Senior Software Engineer in CriticalSoftware for almost 20 years.
+I start develop in 1984, on a ZX Spectrum and never stop. I'm a Senior Software Engineer in CriticalSoftware for more 20 years.
 
 * 🌍  I'm based in Portugal
-* 🧠  I'm learning React, ReactNative, Flutter, SwiftUI
-* 🤝  I'm open to collaborating on Software, Hardware, developing software, devops, cloud
+* 🧠  I'm learning: Goland (advance) and Python (advance) and also SwiftUI, React, mobile developement in  ReactNative, Flutter.
+* 🤝  I'm very good: Developing Software, DevOps / DevSecOps, Cloud Engenering and Hardware.
 * ⚡  Also a Woodworker, and DIY maker.
 
 ### Skills
-
 
 <p align="left">
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
@@ -60,15 +59,14 @@ I start develop in 1984, on a ZX Spectrum and never stop. I'm a Senior Software 
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.facebook.com/augcampos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/augcampos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/augcampos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/augcampos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/augcampos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/bdm_pt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-
 ### Badges
-
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/augcampos"><img width="40%" src="https://github-readme-stats.vercel.app/api?username=augcampos&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="augcampos's GitHub stats" /></a>
 <a href="http://www.github.com/augcampos"><img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=augcampos&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="https://github.com/augcampos" align="left"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augcampos&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### Socials
+
+
+<p align="left"> <a href="https://www.facebook.com/augcampos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/augcampos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/augcampos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/augcampos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/augcampos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/bdm_pt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
